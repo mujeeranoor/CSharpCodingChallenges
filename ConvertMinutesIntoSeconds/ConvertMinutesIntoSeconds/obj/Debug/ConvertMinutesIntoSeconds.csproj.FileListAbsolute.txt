@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\bin\Debug\ConvertMinutesIntoSeconds.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\bin\Debug\ConvertMinutesIntoSeconds.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\bin\Debug\ConvertMinutesIntoSeconds.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\obj\Debug\ConvertMinutesIntoSeconds.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\obj\Debug\ConvertMinutesIntoSeconds.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ConvertMinutesIntoSeconds\ConvertMinutesIntoSeconds\obj\Debug\ConvertMinutesIntoSeconds.pdb
