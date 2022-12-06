@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\bin\Debug\DividesEvenly.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\bin\Debug\DividesEvenly.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\bin\Debug\DividesEvenly.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\obj\Debug\DividesEvenly.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\obj\Debug\DividesEvenly.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\DividesEvenly\DividesEvenly\obj\Debug\DividesEvenly.pdb
