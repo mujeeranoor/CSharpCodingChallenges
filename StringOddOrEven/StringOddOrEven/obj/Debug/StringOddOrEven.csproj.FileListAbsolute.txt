@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\bin\Debug\StringOddOrEven.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\bin\Debug\StringOddOrEven.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\bin\Debug\StringOddOrEven.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\obj\Debug\StringOddOrEven.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\obj\Debug\StringOddOrEven.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\StringOddOrEven\StringOddOrEven\obj\Debug\StringOddOrEven.pdb
