@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\bin\Debug\NthEven.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\bin\Debug\NthEven.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\bin\Debug\NthEven.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\obj\Debug\NthEven.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\obj\Debug\NthEven.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\NthEven\NthEven\obj\Debug\NthEven.pdb
