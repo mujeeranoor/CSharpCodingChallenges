@@ -1,0 +1,13 @@
+public int GetAbsoluteSum(int[] Array1)
+        {
+            var result = 0;
+            foreach (var element in Array1)
+              {
+      		result = result + element; 
+              }
+            Console.WriteLine(result);
+            Console.ReadLine();
+            return result;
+        }
+
+//another method to solve this coding challenge
