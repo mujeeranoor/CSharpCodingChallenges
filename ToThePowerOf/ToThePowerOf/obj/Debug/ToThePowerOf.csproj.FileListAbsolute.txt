@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\ToThePowerOf.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\ToThePowerOf.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\ToThePowerOf.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\ToThePowerOf.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\ToThePowerOf.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\ToThePowerOf.pdb
