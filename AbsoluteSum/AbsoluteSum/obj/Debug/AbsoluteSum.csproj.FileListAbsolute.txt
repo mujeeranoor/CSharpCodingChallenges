@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.pdb
