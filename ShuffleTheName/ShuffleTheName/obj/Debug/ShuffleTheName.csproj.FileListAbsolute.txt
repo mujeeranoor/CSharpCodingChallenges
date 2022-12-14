@@ -1,0 +1,6 @@
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\bin\Debug\ShuffleTheName.exe.config
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\bin\Debug\ShuffleTheName.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\bin\Debug\ShuffleTheName.pdb
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\obj\Debug\ShuffleTheName.csprojResolveAssemblyReference.cache
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\obj\Debug\ShuffleTheName.exe
+c:\users\mujeera.noor\documents\visual studio 2015\Projects\ShuffleTheName\ShuffleTheName\obj\Debug\ShuffleTheName.pdb
