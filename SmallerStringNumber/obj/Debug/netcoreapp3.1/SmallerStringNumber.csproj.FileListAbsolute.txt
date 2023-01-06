@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.exe
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.deps.json
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.dll
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\bin\Debug\netcoreapp3.1\SmallerStringNumber.pdb
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.dll
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.pdb
+C:\Users\mujeera.noor\source\repos\SmallerStringNumber\obj\Debug\netcoreapp3.1\SmallerStringNumber.genruntimeconfig.cache
