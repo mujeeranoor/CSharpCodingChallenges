@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.exe
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.deps.json
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.dll
+C:\Users\mujeera.noor\source\repos\HowManyVowels\bin\Debug\netcoreapp3.1\HowManyVowels.pdb
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.dll
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.pdb
+C:\Users\mujeera.noor\source\repos\HowManyVowels\obj\Debug\netcoreapp3.1\HowManyVowels.genruntimeconfig.cache
