@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.exe
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.deps.json
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.dll
+C:\Users\mujeera.noor\source\repos\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.dll
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Users\mujeera.noor\source\repos\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.genruntimeconfig.cache
