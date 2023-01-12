@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.exe
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.deps.json
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.dll
+C:\Users\mujeera.noor\source\repos\GetxFiles\bin\Debug\netcoreapp3.1\GetxFiles.pdb
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.dll
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.pdb
+C:\Users\mujeera.noor\source\repos\GetxFiles\obj\Debug\netcoreapp3.1\GetxFiles.genruntimeconfig.cache
