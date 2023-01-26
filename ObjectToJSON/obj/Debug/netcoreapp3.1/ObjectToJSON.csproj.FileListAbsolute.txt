@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.exe
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.deps.json
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.dll
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\bin\Debug\netcoreapp3.1\ObjectToJSON.pdb
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.dll
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.pdb
+C:\Users\mujeera.noor\source\repos\ObjectToJSON\obj\Debug\netcoreapp3.1\ObjectToJSON.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.exe
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.deps.json
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.dll
+C:\Users\mujeera.noor\source\repos\JSONtoObject\bin\Debug\netcoreapp3.1\JSONtoObject.pdb
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.dll
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.pdb
+C:\Users\mujeera.noor\source\repos\JSONtoObject\obj\Debug\netcoreapp3.1\JSONtoObject.genruntimeconfig.cache
