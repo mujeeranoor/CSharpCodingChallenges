@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.exe
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.deps.json
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.dll
+C:\Users\mujeera.noor\source\repos\JSONmodel\bin\Debug\netcoreapp3.1\JSONmodel.pdb
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.dll
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.pdb
+C:\Users\mujeera.noor\source\repos\JSONmodel\obj\Debug\netcoreapp3.1\JSONmodel.genruntimeconfig.cache
