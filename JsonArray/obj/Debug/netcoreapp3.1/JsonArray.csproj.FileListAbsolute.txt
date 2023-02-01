@@ -1,0 +1,14 @@
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.exe
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.deps.json
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.runtimeconfig.json
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.runtimeconfig.dev.json
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.dll
+C:\Users\mujeera.noor\source\repos\JsonArray\bin\Debug\netcoreapp3.1\JsonArray.pdb
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.csproj.AssemblyReference.cache
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.AssemblyInfoInputs.cache
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.AssemblyInfo.cs
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.csproj.CoreCompileInputs.cache
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.dll
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.pdb
+C:\Users\mujeera.noor\source\repos\JsonArray\obj\Debug\netcoreapp3.1\JsonArray.genruntimeconfig.cache
